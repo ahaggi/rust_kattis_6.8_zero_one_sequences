@@ -17,6 +17,7 @@ Find the sum of the number of inversions of the 2^ k sequences, modulo 1, 000, 0
 
 The first and only line of input contains the input string, consisting of characters ‘0’, ‘1’, and ‘?’ only, and the input string has between 1 and 500 000 characters, inclusive.
 
+
 ## Output
 
 Output an integer indicating the aforementioned number of inversions modulo 1,000,000,007.
